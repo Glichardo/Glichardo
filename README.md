@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I'm Rodrigo, from Spain<br><br>- 🔭 Looking to begin my professional journey in the tech industry.<br>- 📚 I'm currently learning software development principles and working on small academic projects.<br>- ⚡ In my free time, I enjoy playing video games and listening to music.</p>
+<p align="left">I'm Rodrigo, from Spain<br><br>- 🔭 Looking to begin my professional journey in the tech industry.<br>- 📚 I'm currently learning software development principles and working on small academic projects.<br>- ⚡ In my free time, I enjoy playing video games, listening and composing music.</p>
 
 ###
 
