@@ -58,9 +58,9 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Glichardo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+![Metrics](https://metrics.lecoq.io/Glichardo?template=classic&languages=1&languages.limit=5&languages.details=percentage&languages.colors=github&config.theme=dark)
+
+
 
 ###
 
