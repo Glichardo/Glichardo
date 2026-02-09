@@ -58,7 +58,13 @@
 
 ###
 
-![Metrics](https://metrics.lecoq.io/Glichardo?template=classic&languages=1&languages.limit=5&languages.details=percentage&languages.colors=github&config.theme=dark)
+<div align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Glichardo&theme=dark"
+    height="150"
+    alt="Top languages"
+  />
+</div>
 
 
 
