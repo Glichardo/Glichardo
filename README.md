@@ -60,7 +60,7 @@
 
 <div align="center">
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Glichardo&theme=dark&langs_count=10"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8"
     height="150"
     alt="Top languages"
   />
