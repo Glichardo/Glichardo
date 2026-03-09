@@ -1,2 +1,17 @@
-- name: GitHub Readme Stats Action
-  uses: stats-organization/github-readme-stats-action@v1.1.0
+name: GitHub Stats
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * *"
+
+jobs:
+  stats:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: GitHub Readme Stats Action
+        uses: stats-organization/github-readme-stats-action@v1.1.0
