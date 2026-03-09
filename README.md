@@ -60,12 +60,21 @@
 
 <div align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8"
+    src="./profile/top-langs.svg"
     height="150"
     alt="Top languages"
   />
 </div>
 
+###
+
+<div align="center">
+  <img
+    src="./profile/stats.svg"
+    height="150"
+    alt="Stats"
+  />
+</div>
 
 
 ###
